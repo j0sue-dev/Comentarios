@@ -1,0 +1,25 @@
+{
+ "version": 1,
+ "comentarios": [
+  {
+   "id": "mhcc",
+   "lang": "es",
+   "autor": "Matthew Henry",
+   "titulo": "Comentario conciso de toda la Biblia",
+   "descripcion": "Comentario devocional breve de toda la Biblia (1706). Traducción al español de Infobase.",
+   "archivo": "es/matthew-henry/mhcc.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1046184
+  },
+  {
+   "id": "mhcc",
+   "lang": "en",
+   "autor": "Matthew Henry",
+   "titulo": "Concise Commentary on the Whole Bible",
+   "descripcion": "Brief devotional commentary on the whole Bible (1706).",
+   "archivo": "en/matthew-henry/mhcc.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1017120
+  }
+ ]
+}
