@@ -9,7 +9,7 @@
    "descripcion": "Study notes of the Scofield Reference Bible, 1917 edition.",
    "archivo": "en/scofield/scofield.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 225192
+   "tamano": 226136
   },
   {
    "id": "dtn",
@@ -19,7 +19,7 @@
    "descripcion": "J. N. Darby's notes on his Bible translation: literal renderings, variants and clarifications of the original text.",
    "archivo": "en/darby/dtn.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 224048
+   "tamano": 224120
   },
   {
    "id": "abbott",
@@ -29,7 +29,7 @@
    "descripcion": "Commentary on the New Testament (1875).",
    "archivo": "en/abbott/abbott.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 207084
+   "tamano": 207140
   },
   {
    "id": "mhcc",
@@ -39,7 +39,7 @@
    "descripcion": "Brief devotional commentary on the whole Bible (1706).",
    "archivo": "en/matthew-henry/mhcc.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 1017120
+   "tamano": 1017420
   },
   {
    "id": "scofield",
@@ -49,7 +49,7 @@
    "descripcion": "Notas de estudio de la Biblia de referencia Scofield, edición de 1917. Traducción al español de Infobase.",
    "archivo": "es/scofield/scofield.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 230072
+   "tamano": 230836
   },
   {
    "id": "dtn",
@@ -59,7 +59,7 @@
    "descripcion": "Notas de J. N. Darby a su traducción de la Biblia: lecturas literales, variantes y aclaraciones del texto original. Traducción al español de Infobase.",
    "archivo": "es/darby/dtn.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 228668
+   "tamano": 228280
   },
   {
    "id": "abbott",
@@ -69,7 +69,7 @@
    "descripcion": "Comentario del Nuevo Testamento (1875). Traducción al español de Infobase.",
    "archivo": "es/abbott/abbott.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 209864
+   "tamano": 209732
   },
   {
    "id": "mhcc",
@@ -79,7 +79,7 @@
    "descripcion": "Comentario devocional breve de toda la Biblia (1706). Traducción al español de Infobase.",
    "archivo": "es/matthew-henry/mhcc.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 1046184
+   "tamano": 1045828
   }
  ]
 }
