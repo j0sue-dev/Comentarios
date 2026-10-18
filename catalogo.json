@@ -12,6 +12,16 @@
    "tamano": 224048
   },
   {
+   "id": "abbott",
+   "lang": "en",
+   "autor": "Lyman Abbott",
+   "titulo": "Illustrated New Testament",
+   "descripcion": "Commentary on the New Testament (1875).",
+   "archivo": "en/abbott/abbott.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 207084
+  },
+  {
    "id": "mhcc",
    "lang": "en",
    "autor": "Matthew Henry",
@@ -30,6 +40,16 @@
    "archivo": "es/darby/dtn.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 228668
+  },
+  {
+   "id": "abbott",
+   "lang": "es",
+   "autor": "Lyman Abbott",
+   "titulo": "Nuevo Testamento ilustrado",
+   "descripcion": "Comentario del Nuevo Testamento (1875). Traducción al español de Infobase.",
+   "archivo": "es/abbott/abbott.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 209864
   },
   {
    "id": "mhcc",
