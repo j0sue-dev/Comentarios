@@ -2,6 +2,16 @@
  "version": 1,
  "comentarios": [
   {
+   "id": "scofield",
+   "lang": "en",
+   "autor": "C. I. Scofield",
+   "titulo": "Scofield Reference Notes (1917)",
+   "descripcion": "Study notes of the Scofield Reference Bible, 1917 edition.",
+   "archivo": "en/scofield/scofield.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 225192
+  },
+  {
    "id": "dtn",
    "lang": "en",
    "autor": "John Nelson Darby",
@@ -30,6 +40,16 @@
    "archivo": "en/matthew-henry/mhcc.json.xz",
    "licencia": "Public domain (CrossWire)",
    "tamano": 1017120
+  },
+  {
+   "id": "scofield",
+   "lang": "es",
+   "autor": "C. I. Scofield",
+   "titulo": "Notas de referencia Scofield (1917)",
+   "descripcion": "Notas de estudio de la Biblia de referencia Scofield, edición de 1917. Traducción al español de Infobase.",
+   "archivo": "es/scofield/scofield.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 230072
   },
   {
    "id": "dtn",
