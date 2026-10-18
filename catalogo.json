@@ -2,14 +2,14 @@
  "version": 1,
  "comentarios": [
   {
-   "id": "mhcc",
-   "lang": "es",
-   "autor": "Matthew Henry",
-   "titulo": "Comentario conciso de toda la Biblia",
-   "descripcion": "Comentario devocional breve de toda la Biblia (1706). Traducción al español de Infobase.",
-   "archivo": "es/matthew-henry/mhcc.json.xz",
-   "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 1046184
+   "id": "dtn",
+   "lang": "en",
+   "autor": "John Nelson Darby",
+   "titulo": "Darby Translation Notes",
+   "descripcion": "J. N. Darby's notes on his Bible translation: literal renderings, variants and clarifications of the original text.",
+   "archivo": "en/darby/dtn.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 224048
   },
   {
    "id": "mhcc",
@@ -20,6 +20,26 @@
    "archivo": "en/matthew-henry/mhcc.json.xz",
    "licencia": "Public domain (CrossWire)",
    "tamano": 1017120
+  },
+  {
+   "id": "dtn",
+   "lang": "es",
+   "autor": "John Nelson Darby",
+   "titulo": "Notas de la traducción de Darby",
+   "descripcion": "Notas de J. N. Darby a su traducción de la Biblia: lecturas literales, variantes y aclaraciones del texto original. Traducción al español de Infobase.",
+   "archivo": "es/darby/dtn.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 228668
+  },
+  {
+   "id": "mhcc",
+   "lang": "es",
+   "autor": "Matthew Henry",
+   "titulo": "Comentario conciso de toda la Biblia",
+   "descripcion": "Comentario devocional breve de toda la Biblia (1706). Traducción al español de Infobase.",
+   "archivo": "es/matthew-henry/mhcc.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1046184
   }
  ]
 }
