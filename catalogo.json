@@ -12,6 +12,16 @@
    "tamano": 397540
   },
   {
+   "id": "pnt",
+   "lang": "en",
+   "autor": "B. W. Johnson",
+   "titulo": "The People's New Testament",
+   "descripcion": "Commentary on the whole New Testament for the common reader (1891).",
+   "archivo": "en/johnson/pnt.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 634128
+  },
+  {
    "id": "scofield",
    "lang": "en",
    "autor": "C. I. Scofield",
@@ -70,6 +80,16 @@
    "archivo": "es/family/family.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 409508
+  },
+  {
+   "id": "pnt",
+   "lang": "es",
+   "autor": "B. W. Johnson",
+   "titulo": "El Nuevo Testamento del pueblo",
+   "descripcion": "Comentario de todo el Nuevo Testamento para el lector común (1891). Traducción al español de Infobase.",
+   "archivo": "es/johnson/pnt.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 642444
   },
   {
    "id": "scofield",
