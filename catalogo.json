@@ -12,6 +12,16 @@
    "tamano": 226136
   },
   {
+   "id": "lightfoot",
+   "lang": "en",
+   "autor": "John Lightfoot",
+   "titulo": "Commentary on the New Testament from the Talmud and Hebraica",
+   "descripcion": "Horae Hebraicae et Talmudicae (1658-1674): the Gospels and other NT books in the light of the Talmud and Jewish customs.",
+   "archivo": "en/lightfoot/lightfoot.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 319620
+  },
+  {
    "id": "dtn",
    "lang": "en",
    "autor": "John Nelson Darby",
@@ -50,6 +60,16 @@
    "archivo": "es/scofield/scofield.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 230836
+  },
+  {
+   "id": "lightfoot",
+   "lang": "es",
+   "autor": "John Lightfoot",
+   "titulo": "Comentario del Nuevo Testamento desde el Talmud y la literatura hebrea",
+   "descripcion": "Horae Hebraicae et Talmudicae (1658-1674): los Evangelios y otros libros del NT a la luz del Talmud y las costumbres judías. Traducción al español de Infobase.",
+   "archivo": "es/lightfoot/lightfoot.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 322376
   },
   {
    "id": "dtn",
