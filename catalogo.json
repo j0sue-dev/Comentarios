@@ -2,6 +2,16 @@
  "version": 1,
  "comentarios": [
   {
+   "id": "family",
+   "lang": "en",
+   "autor": "American Tract Society",
+   "titulo": "Family Bible Notes",
+   "descripcion": "Brief notes on the whole Bible for family reading (19th century).",
+   "archivo": "en/family/family.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 397540
+  },
+  {
    "id": "scofield",
    "lang": "en",
    "autor": "C. I. Scofield",
@@ -50,6 +60,16 @@
    "archivo": "en/matthew-henry/mhcc.json.xz",
    "licencia": "Public domain (CrossWire)",
    "tamano": 1017420
+  },
+  {
+   "id": "family",
+   "lang": "es",
+   "autor": "American Tract Society",
+   "titulo": "Notas de la Biblia familiar",
+   "descripcion": "Notas breves de toda la Biblia para la lectura en familia (s. XIX). Traducción al español de Infobase.",
+   "archivo": "es/family/family.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 409508
   },
   {
    "id": "scofield",
