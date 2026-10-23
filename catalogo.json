@@ -62,6 +62,16 @@
    "tamano": 224120
   },
   {
+   "id": "wesley",
+   "lang": "en",
+   "autor": "John Wesley",
+   "titulo": "Explanatory Notes on the Whole Bible",
+   "descripcion": "John Wesley's notes on the whole Bible (1754-1765).",
+   "archivo": "en/wesley/wesley.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1346756
+  },
+  {
    "id": "abbott",
    "lang": "en",
    "autor": "Lyman Abbott",
@@ -140,6 +150,16 @@
    "archivo": "es/darby/dtn.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 228280
+  },
+  {
+   "id": "wesley",
+   "lang": "es",
+   "autor": "John Wesley",
+   "titulo": "Notas explicativas sobre la Biblia",
+   "descripcion": "Notas de John Wesley sobre toda la Biblia (1754-1765). Traducción al español de Infobase.",
+   "archivo": "es/wesley/wesley.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1378608
   },
   {
    "id": "abbott",
