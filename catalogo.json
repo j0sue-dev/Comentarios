@@ -22,6 +22,16 @@
    "tamano": 634128
   },
   {
+   "id": "geneva",
+   "lang": "en",
+   "autor": "Biblia de Ginebra",
+   "titulo": "Geneva Bible Translation Notes (1599)",
+   "descripcion": "Notes of the English Reformers to the Geneva Bible, on the whole Bible.",
+   "archivo": "en/ginebra/geneva.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1192256
+  },
+  {
    "id": "scofield",
    "lang": "en",
    "autor": "C. I. Scofield",
@@ -90,6 +100,16 @@
    "archivo": "es/johnson/pnt.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 642444
+  },
+  {
+   "id": "geneva",
+   "lang": "es",
+   "autor": "Biblia de Ginebra",
+   "titulo": "Notas de la Biblia de Ginebra (1599)",
+   "descripcion": "Notas de los reformadores ingleses a la Biblia de Ginebra, de toda la Biblia. Traducción al español de Infobase.",
+   "archivo": "es/ginebra/geneva.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1183468
   },
   {
    "id": "scofield",
