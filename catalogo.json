@@ -9,7 +9,7 @@
    "descripcion": "Brief notes on the whole Bible for family reading (19th century).",
    "archivo": "en/family/family.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 397540
+   "tamano": 397228
   },
   {
    "id": "pnt",
@@ -19,7 +19,7 @@
    "descripcion": "Commentary on the whole New Testament for the common reader (1891).",
    "archivo": "en/johnson/pnt.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 634128
+   "tamano": 634320
   },
   {
    "id": "geneva",
@@ -29,7 +29,7 @@
    "descripcion": "Notes of the English Reformers to the Geneva Bible, on the whole Bible.",
    "archivo": "en/ginebra/geneva.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 1192256
+   "tamano": 1192320
   },
   {
    "id": "scofield",
@@ -39,7 +39,7 @@
    "descripcion": "Study notes of the Scofield Reference Bible, 1917 edition.",
    "archivo": "en/scofield/scofield.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 226136
+   "tamano": 226088
   },
   {
    "id": "jfb",
@@ -49,7 +49,7 @@
    "descripcion": "Critical and explanatory commentary on the whole Bible (1871).",
    "archivo": "en/jfb/jfb.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 2925392
+   "tamano": 2926160
   },
   {
    "id": "lightfoot",
@@ -59,7 +59,7 @@
    "descripcion": "Horae Hebraicae et Talmudicae (1658-1674): the Gospels and other NT books in the light of the Talmud and Jewish customs.",
    "archivo": "en/lightfoot/lightfoot.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 319620
+   "tamano": 319656
   },
   {
    "id": "dtn",
@@ -69,7 +69,7 @@
    "descripcion": "J. N. Darby's notes on his Bible translation: literal renderings, variants and clarifications of the original text.",
    "archivo": "en/darby/dtn.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 224120
+   "tamano": 224196
   },
   {
    "id": "wesley",
@@ -79,7 +79,7 @@
    "descripcion": "John Wesley's notes on the whole Bible (1754-1765).",
    "archivo": "en/wesley/wesley.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 1346756
+   "tamano": 1347140
   },
   {
    "id": "abbott",
@@ -89,7 +89,7 @@
    "descripcion": "Commentary on the New Testament (1875).",
    "archivo": "en/abbott/abbott.json.xz",
    "licencia": "Public domain (CrossWire)",
-   "tamano": 207140
+   "tamano": 207172
   },
   {
    "id": "mhcc",
@@ -109,7 +109,7 @@
    "descripcion": "Notas breves de toda la Biblia para la lectura en familia (s. XIX). Traducción al español de Infobase.",
    "archivo": "es/family/family.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 409508
+   "tamano": 409328
   },
   {
    "id": "pnt",
@@ -119,7 +119,7 @@
    "descripcion": "Comentario de todo el Nuevo Testamento para el lector común (1891). Traducción al español de Infobase.",
    "archivo": "es/johnson/pnt.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 642444
+   "tamano": 642416
   },
   {
    "id": "geneva",
@@ -129,7 +129,7 @@
    "descripcion": "Notas de los reformadores ingleses a la Biblia de Ginebra, de toda la Biblia. Traducción al español de Infobase.",
    "archivo": "es/ginebra/geneva.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 1183468
+   "tamano": 1183428
   },
   {
    "id": "scofield",
@@ -139,7 +139,7 @@
    "descripcion": "Notas de estudio de la Biblia de referencia Scofield, edición de 1917. Traducción al español de Infobase.",
    "archivo": "es/scofield/scofield.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 230836
+   "tamano": 230812
   },
   {
    "id": "jfb",
@@ -149,7 +149,7 @@
    "descripcion": "Comentario crítico y explicativo de toda la Biblia (1871). Traducción al español de Infobase.",
    "archivo": "es/jfb/jfb.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 2944672
+   "tamano": 2945212
   },
   {
    "id": "lightfoot",
@@ -159,7 +159,7 @@
    "descripcion": "Horae Hebraicae et Talmudicae (1658-1674): los Evangelios y otros libros del NT a la luz del Talmud y las costumbres judías. Traducción al español de Infobase.",
    "archivo": "es/lightfoot/lightfoot.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 322376
+   "tamano": 322388
   },
   {
    "id": "dtn",
@@ -169,7 +169,7 @@
    "descripcion": "Notas de J. N. Darby a su traducción de la Biblia: lecturas literales, variantes y aclaraciones del texto original. Traducción al español de Infobase.",
    "archivo": "es/darby/dtn.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 228280
+   "tamano": 228256
   },
   {
    "id": "wesley",
@@ -179,7 +179,7 @@
    "descripcion": "Notas de John Wesley sobre toda la Biblia (1754-1765). Traducción al español de Infobase.",
    "archivo": "es/wesley/wesley.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 1378608
+   "tamano": 1378900
   },
   {
    "id": "abbott",
@@ -189,7 +189,7 @@
    "descripcion": "Comentario del Nuevo Testamento (1875). Traducción al español de Infobase.",
    "archivo": "es/abbott/abbott.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
-   "tamano": 209732
+   "tamano": 209776
   },
   {
    "id": "mhcc",
