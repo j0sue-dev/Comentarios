@@ -42,6 +42,16 @@
    "tamano": 226136
   },
   {
+   "id": "jfb",
+   "lang": "en",
+   "autor": "Jamieson, Fausset y Brown",
+   "titulo": "Commentary Critical and Explanatory on the Whole Bible",
+   "descripcion": "Critical and explanatory commentary on the whole Bible (1871).",
+   "archivo": "en/jfb/jfb.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 2925392
+  },
+  {
    "id": "lightfoot",
    "lang": "en",
    "autor": "John Lightfoot",
@@ -130,6 +140,16 @@
    "archivo": "es/scofield/scofield.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 230836
+  },
+  {
+   "id": "jfb",
+   "lang": "es",
+   "autor": "Jamieson, Fausset y Brown",
+   "titulo": "Comentario de toda la Biblia",
+   "descripcion": "Comentario crítico y explicativo de toda la Biblia (1871). Traducción al español de Infobase.",
+   "archivo": "es/jfb/jfb.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 2944672
   },
   {
    "id": "lightfoot",
