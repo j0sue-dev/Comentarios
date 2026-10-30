@@ -11,4 +11,11 @@ de secciones {b: libro 1..66, c: capítulo, v: versículo, e: versículo final,
 k: bloques}, con bloques ["p", texto] (referencias como [[ref:b:c:v:c2:v2]]),
 ["c", capítulo], ["o", texto, "1-2"] (esquema) y ["v", "3-5"].
 
+Todos los comentarios siguen el formato del de Matthew Henry: la primera
+sección de cada capítulo empieza con ["c", capítulo] y el esquema de los
+puntos que trata (["o", título breve, versículos]), y cada sección lleva su
+encabezado ["v", versículos]. En los comentarios de notas por versículo
+(todos salvo Matthew Henry) los títulos del esquema los generó Infobase
+agrupando las notas del capítulo por tema.
+
 Las traducciones al español son de Infobase.
