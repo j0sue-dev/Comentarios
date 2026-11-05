@@ -200,6 +200,26 @@
    "archivo": "es/matthew-henry/mhcc.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 1045828
+  },
+  {
+   "id": "tfg",
+   "lang": "en",
+   "autor": "J. W. McGarvey y P. Y. Pendleton",
+   "titulo": "The Fourfold Gospel",
+   "descripcion": "Harmony of the four Gospels with commentary (1914), plus McGarvey's commentary on Acts.",
+   "archivo": "en/mcgarvey/tfg.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 684252
+  },
+  {
+   "id": "tfg",
+   "lang": "es",
+   "autor": "J. W. McGarvey y P. Y. Pendleton",
+   "titulo": "El Evangelio cuádruple",
+   "descripcion": "Armonía de los cuatro Evangelios con comentario (1914), más el comentario de McGarvey sobre Hechos. Traducción al español de Infobase.",
+   "archivo": "es/mcgarvey/tfg.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 697100
   }
  ]
 }
