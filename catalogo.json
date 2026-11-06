@@ -220,6 +220,26 @@
    "archivo": "es/mcgarvey/tfg.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 697100
+  },
+  {
+   "id": "tsk",
+   "lang": "en",
+   "autor": "R. A. Torrey",
+   "titulo": "The Treasury of Scripture Knowledge",
+   "descripcion": "Cross references and chapter summaries for the whole Bible (c. 1880), with notes.",
+   "archivo": "en/tsk/tsk.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1995164
+  },
+  {
+   "id": "tsk",
+   "lang": "es",
+   "autor": "R. A. Torrey",
+   "titulo": "Tesoro del conocimiento bíblico",
+   "descripcion": "Referencias cruzadas y resúmenes de capítulo de toda la Biblia (c. 1880), con notas. Palabras clave según la RV1960. Traducción al español de Infobase.",
+   "archivo": "es/tsk/tsk.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 2074728
   }
  ]
 }
