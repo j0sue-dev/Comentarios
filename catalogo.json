@@ -240,6 +240,26 @@
    "archivo": "es/tsk/tsk.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 2074728
+  },
+  {
+   "id": "catena",
+   "lang": "en",
+   "autor": "Tomás de Aquino",
+   "titulo": "Catena Aurea",
+   "descripcion": "Commentary on the four Gospels collected out of the works of the Fathers (13th century; English translation, 1841).",
+   "archivo": "en/tomas-aquino/catena.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1429644
+  },
+  {
+   "id": "catena",
+   "lang": "es",
+   "autor": "Tomás de Aquino",
+   "titulo": "Catena Aurea",
+   "descripcion": "Comentario a los cuatro Evangelios reunido de las obras de los Padres de la Iglesia (siglo XIII). Traducción al español de Infobase.",
+   "archivo": "es/tomas-aquino/catena.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1417876
   }
  ]
 }
