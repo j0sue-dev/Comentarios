@@ -260,6 +260,26 @@
    "archivo": "es/tomas-aquino/catena.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 1417876
+  },
+  {
+   "id": "burkitt",
+   "lang": "en",
+   "autor": "William Burkitt",
+   "titulo": "Expository Notes with Practical Observations on the New Testament",
+   "descripcion": "Devotional commentary on the whole New Testament with practical observations (1700).",
+   "archivo": "en/burkitt/burkitt.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1470708
+  },
+  {
+   "id": "burkitt",
+   "lang": "es",
+   "autor": "William Burkitt",
+   "titulo": "Notas expositivas sobre el Nuevo Testamento",
+   "descripcion": "Comentario devocional de todo el Nuevo Testamento con observaciones prácticas (1700). Traducción al español de Infobase.",
+   "archivo": "es/burkitt/burkitt.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1523640
   }
  ]
 }
