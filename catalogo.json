@@ -280,6 +280,26 @@
    "archivo": "es/burkitt/burkitt.json.xz",
    "licencia": "Dominio público (CrossWire); traducción: Infobase",
    "tamano": 1523640
+  },
+  {
+   "id": "luther",
+   "lang": "en",
+   "autor": "Martin Luther",
+   "titulo": "Luther's Commentary on Selected Bible Passages",
+   "descripcion": "Sermons and expositions on selected passages of Genesis, the books from Job to Malachi and the New Testament, from the Lenker, Hay and Holman editions (1892-1933).",
+   "archivo": "en/luther/luther.json.xz",
+   "licencia": "Public domain (CrossWire)",
+   "tamano": 1775172
+  },
+  {
+   "id": "luther",
+   "lang": "es",
+   "autor": "Martín Lutero",
+   "titulo": "Comentario de Lutero sobre pasajes escogidos",
+   "descripcion": "Sermones y exposiciones sobre pasajes escogidos del Génesis, de los libros de Job a Malaquías y del Nuevo Testamento, de las ediciones de Lenker, Hay y Holman (1892-1933). Traducción al español de Infobase.",
+   "archivo": "es/luther/luther.json.xz",
+   "licencia": "Dominio público (CrossWire); traducción: Infobase",
+   "tamano": 1775232
   }
  ]
 }
